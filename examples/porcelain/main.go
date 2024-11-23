@@ -26,8 +26,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/mholt/acmez/v3"
-	"github.com/mholt/acmez/v3/acme"
+	"github.com/jantytgat/acmez/v3/acme"
+	
 )
 
 // Run pebble (the ACME server) before running this example:

@@ -39,7 +39,7 @@ In other words, the `acmez` package is **porcelain** while the `acme` package is
 ## Install
 
 ```
-go get github.com/mholt/acmez/v2
+go get jantytgat/v2
 ```
 
 

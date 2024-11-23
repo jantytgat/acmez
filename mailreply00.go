@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/mholt/acmez/v3/acme"
+	"github.com/jantytgat/acmez/v3/acme"
 )
 
 // MailReplyChallengeResponse builds an email response body including headers to reply to the

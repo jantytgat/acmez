@@ -42,7 +42,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mholt/acmez/v3/acme"
+	"github.com/jantytgat/acmez/v3/acme"
 )
 
 // Client is a high-level API for ACME operations. It wraps

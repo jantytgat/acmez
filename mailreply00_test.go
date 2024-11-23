@@ -24,7 +24,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mholt/acmez/v3/acme"
+	"github.com/jantytgat/acmez/v3/acme"
 )
 
 func TestMailReplyChallengeResponse(t *testing.T) {

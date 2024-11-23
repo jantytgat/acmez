@@ -1,4 +1,4 @@
-module github.com/mholt/acmez/v3
+module github.com/jantytgat/acmez/v3
 
 go 1.21.0
 
